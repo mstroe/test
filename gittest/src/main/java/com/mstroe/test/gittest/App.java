@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World7! Feature 2 branch" );
+        System.out.println( "Hello World8!" );
     }
 }
