@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 client11111
+=======
+master 22222
+>>>>>>> branch 'master' of https://github.com/mstroe/test.git
 master change1
 client change1
 client change3
