@@ -1,4 +1,4 @@
-client1 - eclipse change
+client1 - eclipse change merged
 master change1x
 client change1
 client change3
